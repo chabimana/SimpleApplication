@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleApplication</string>
+    <!-- defining the array for our spinner -->
+    <array name="teams">
+        <item>Male</item>
+        <item>Female</item>
+    </array>
+</resources>
